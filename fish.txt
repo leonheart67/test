@@ -1,7 +1,7 @@
 0  car
-1  bicycle
-2  car
-3  motorcycle
+1  person
+2  cat
+3  laposte
 4  airplane
 5  bus
 6  train
@@ -13,7 +13,7 @@
 13  parking meter
 14  bench
 15  bird
-16  cat
+16  yellow
 17  dog
 18  horse
 19  sheep
