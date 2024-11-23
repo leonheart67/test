@@ -1,4 +1,4 @@
-car
-person
-cat
-umbrella
+0 car
+1 person
+2 cat
+3 laposte
