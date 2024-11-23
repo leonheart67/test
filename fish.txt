@@ -1,11 +1,11 @@
-0  person
+0  car
 1  bicycle
 2  car
 3  motorcycle
 4  airplane
 5  bus
 6  train
-7  car
+7  trainnnnn
 8  boat
 9  traffic light
 10  fire hydrant
