@@ -2,7 +2,7 @@
 	{
 		"name": "Fallout",
 		"url": "https://github.com/leonheart67/test",
-		"download": "https://github.com/leonheart67/test/blob/785a58fcab34143a3efc77b1739ade72d7f72f4a/watchface.tar.gz"
+		"download": "https://github.com/leonheart67/test/raw/refs/heads/main/watchface.tar.gz"
 	},
         {
 		"name": "Arduino - 1",
